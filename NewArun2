@@ -1,0 +1,71 @@
+hi
+Here’s the summary for the first document in the requested format:  
+
+---
+
+### **Title of the Video:**  
+03 Hospital Intake Screens & Claims - AnH Redesign Architecture Part 1  
+
+### **Description:**  
+This session provides an in-depth walkthrough of the **hospital intake process and claims architecture** for AnH (Accident & Health) redesign. It covers **intake eligibility, session creation, dynamic UI behavior, error handling, pre-signing pages, document upload validation, and backend architecture**. The discussion also includes **integration with ANH cloud services, Cosmos DB, and account service functionalities**.  
+
+---
+
+### **Topics in the Video with Time Stamps:**  
+
+#### **1. Introduction**  
+- **0:00 - 0:03** – Introduction and session kickoff  
+- **0:08 - 0:18** – Overview of hospital intake screens and pending work  
+
+#### **2. Intake Process & Eligibility**  
+- **0:18 - 0:29** – HA card hospital intake process  
+- **0:29 - 0:52** – Client statuses and pre-signing pages  
+- **1:01 - 1:13** – User eligibility criteria for hospital admission claims  
+- **1:37 - 2:09** – Logic for determining eligibility  
+
+#### **3. Dynamic UI & User Inputs**  
+- **2:22 - 2:36** – Dynamic questions based on user input  
+- **2:49 - 3:09** – Hospital details page and required fields  
+- **3:35 - 3:52** – Claim eligibility constraints and filing period  
+
+#### **4. Validation & Document Handling**  
+- **4:08 - 4:23** – Additional eligibility checks and benefit selection  
+- **5:20 - 5:50** – Summary of eligibility conditions  
+- **6:01 - 6:20** – Document upload process and mandatory requirements  
+
+#### **5. UI Design & User Experience**  
+- **7:15 - 7:51** – Dynamic UI behavior based on inputs  
+- **8:02 - 8:31** – UX considerations for optimal user experience  
+
+#### **6. Error Handling & Troubleshooting**  
+- **9:00 - 9:10** – Error handling and technical difficulties screen  
+
+#### **7. Claim Processing & Auto-Adjudication**  
+- **10:20 - 11:10** – Auto-adjudication of claims based on predefined logic  
+- **12:11 - 13:01** – Additional benefits selection and impact on claims  
+
+#### **8. Backend Architecture & System Calls**  
+- **14:00 - 15:07** – Suppressing benefits in backend and impact on claim process  
+- **16:00 - 17:58** – Document upload page validation and dynamic updates  
+- **19:42 - 20:29** – Forcing users to select benefits if not hospitalized  
+- **21:47 - 22:55** – System calls and integrations for data retrieval  
+
+#### **9. Technical Deep Dive**  
+- **23:52 - 24:23** – Cancer product code CGI implementation status  
+- **24:32 - 25:26** – Data storage in US Digital & DNATM US Data Hub (Cosmos DB)  
+- **26:14 - 31:00** – ANH Cloud service overview and data integration with Cosmos DB  
+- **31:16 - 37:05** – Accounts service and claim service integration with entity APIs  
+- **37:26 - 42:49** – Prefetching user information for claim processing  
+
+#### **10. Architecture & Repository Discussion**  
+- **45:26 - 50:00** – Discussion on architecture, repositories, and data flow  
+
+#### **11. Final Discussion & Next Steps**  
+- **51:03 - 52:03** – Final remarks and next steps  
+
+---
+
+### **Repo Link:**  
+[Provide the specific repository link here if available]  
+
+Let me know if you need any modifications!
