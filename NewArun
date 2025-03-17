@@ -38,3 +38,49 @@ Topics in the Video with Time Stamps:
 
 Repo Link:
 [Provide the specific repository link here if available]
+
+
+Title of the Video:
+08 Claims Team - Code Walkthrough (NTT Service Part 1)
+
+Description:
+This session provides a detailed walkthrough of the NTT service used in the claims processing system. It covers the intake flow, policy selection, session initiation, claim status management, document uploads, routing validation, and final submission. The session also includes technical architecture insights, backend service interactions, and error handling mechanisms.
+
+Topics in the Video with Time Stamps:
+0:02 - 0:20 – Introduction to claim coverage and benefits
+0:20 - 0:39 – Displaying certificates as PDFs for intake experiences
+0:39 - 1:04 – Other teams responsible for benefit coverage management
+1:12 - 1:46 – Overview of the intake flow in the claims process
+1:50 - 2:35 – Routing logic based on product type (Critical Illness, Accident, Hospital)
+2:35 - 3:05 – Policy selection pop-up for multiple policies
+3:05 - 3:35 – Retrieving policy data and dependent details from AH cloud
+3:35 - 4:00 – Bypassing policy selection for users with only one policy
+4:00 - 4:49 – User experience (UX) variations across different intake screens
+5:01 - 5:17 – Session initiation and draft claim management
+5:30 - 6:49 – Validating existing claim drafts and resuming from last saved state
+7:00 - 7:17 – Extracting policy details and dependent information
+7:25 - 8:40 – Storing intake session data in AHCI intake collection
+8:40 - 9:17 – Different claim statuses (Draft, Submitted, Entity Submitted, Claim Created)
+9:17 - 10:06 – Automated retry mechanism for stuck claims
+10:06 - 11:10 – Manual resubmission process and AMS API endpoints
+12:04 - 13:32 – Intake ID usage and session authentication security
+14:05 - 15:37 – Retrieving content dynamically for UI display
+16:15 - 17:16 – Standard request-response format for UI population
+18:02 - 18:17 – Handling policyholder certificates and document retrieval
+19:35 - 20:49 – Document upload requirements and tagging logic
+21:08 - 21:46 – Enforcing document tagging before submission
+22:03 - 23:40 – Virus scanning, BLOB storage, and document validation
+24:16 - 25:53 – Financial institution validation for payment routing
+26:02 - 27:11 – Communication preference setup and enforcement
+27:39 - 28:07 – Final claim submission, claim form generation, and NTT processing
+29:01 - 30:14 – Managing document versions and business cases
+30:44 - 31:08 – Mapping product codes for different claim types
+31:36 - 32:33 – Validation gaps in document verification
+32:33 - 32:29 – Error handling and troubleshooting stuck claims
+
+Repo Link:
+[Provide the specific repository link here if available]
+
+
+
+
