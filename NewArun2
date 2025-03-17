@@ -69,3 +69,79 @@ This session provides an in-depth walkthrough of the **hospital intake process a
 [Provide the specific repository link here if available]  
 
 Let me know if you need any modifications!
+
+
+
+
+
+
+
+
+Here’s the summary for the second document in the requested format:  
+
+---
+
+### **Title of the Video:**  
+08 Claims Team - Code Walkthrough (NTT Service Part 1)  
+
+### **Description:**  
+This session provides a **detailed walkthrough of the NTT service** used in the claims processing system. It covers **intake flow, policy selection, session initiation, claim status management, document uploads, routing validation, and final submission**. The session also includes **technical architecture insights, backend service interactions, and error handling mechanisms**.  
+
+---
+
+### **Topics in the Video with Time Stamps:**  
+
+#### **1. Introduction**  
+- **0:02 - 0:20** – Overview of claim coverage and benefits  
+- **0:20 - 0:39** – Displaying certificates as PDFs in the intake process  
+- **0:39 - 1:04** – Responsibility of different teams for benefits and coverage  
+
+#### **2. Intake Flow & Policy Selection**  
+- **1:12 - 1:46** – Introduction to the intake flow in claims processing  
+- **1:50 - 2:35** – Routing logic based on product type (Critical Illness, Accident, Hospital)  
+- **2:35 - 3:05** – Policy selection pop-up for multiple policies  
+- **3:05 - 3:35** – Retrieving policy data and dependent details from AH cloud  
+- **3:35 - 4:00** – Bypassing policy selection for users with a single policy  
+
+#### **3. Session Initiation & Draft Management**  
+- **4:00 - 4:49** – UX variations across different intake screens  
+- **5:01 - 5:17** – Creating an intake session and handling draft claims  
+- **5:30 - 6:49** – Validating existing claim drafts and resuming previous sessions  
+- **7:00 - 7:17** – Extracting policy and dependent details for intake  
+- **7:25 - 8:40** – Storing intake session data in AHCI intake collection  
+
+#### **4. Claim Status & Error Handling**  
+- **8:40 - 9:17** – Overview of different claim statuses (Draft, Submitted, Entity Submitted, Claim Created)  
+- **9:17 - 10:06** – Automated retry mechanism for stuck claims  
+- **10:06 - 11:10** – Manual resubmission process and AMS API endpoints  
+
+#### **5. Security & Session Management**  
+- **12:04 - 13:32** – Intake ID usage and session authentication  
+- **14:05 - 15:37** – Retrieving content dynamically for UI display  
+- **16:15 - 17:16** – Standard request-response format for UI population  
+
+#### **6. Document Upload & Processing**  
+- **18:02 - 18:17** – Handling policyholder certificates and document retrieval  
+- **19:35 - 20:49** – Document upload requirements and tagging logic  
+- **21:08 - 21:46** – Enforcing document tagging before submission  
+- **22:03 - 23:40** – Virus scanning, BLOB storage, and document validation  
+
+#### **7. Payment Processing & Routing**  
+- **24:16 - 25:53** – Financial institution validation for payment routing  
+- **26:02 - 27:11** – Communication preference setup and enforcement  
+
+#### **8. Final Submission & Claim Processing**  
+- **27:39 - 28:07** – Final claim submission, claim form generation, and NTT processing  
+- **29:01 - 30:14** – Managing document versions and business cases  
+
+#### **9. Additional Discussions & Q&A**  
+- **30:44 - 31:08** – Mapping product codes for different claim types  
+- **31:36 - 32:33** – Validation gaps in document verification  
+- **32:33 - 32:29** – Error handling and troubleshooting stuck claims  
+
+---
+
+### **Repo Link:**  
+[Provide the specific repository link here if available]  
+
+Let me know if you need modifications!
