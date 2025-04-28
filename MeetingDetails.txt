@@ -1,4 +1,8 @@
 Sprint Demo:
+
+onshore DSU Call:
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWY2ZDQ2ODctZDNmNS00M2NhLWIyYTMtMTZmYjIxOWJjMWVk%40thread.v2/0?context=%7b%22Tid%22%3a%22ca56a4a5-e300-406a-98ff-7e36a0baac5b%22%2c%22Oid%22%3a%22895a7804-30b1-43c5-b462-f70732bbec4d%22%7d
+
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM4NDAyYTktY2MyMS00ZTRlLWFiNTktYWUxZGNmZjA4YTNk%40thread.v2/0?context=%7b%22Tid%22%3a%22ca56a4a5-e300-406a-98ff-7e36a0baac5b%22%2c%22Oid%22%3a%22895a7804-30b1-43c5-b462-f70732bbec4d%22%7d
 
 Sprint planning call:
